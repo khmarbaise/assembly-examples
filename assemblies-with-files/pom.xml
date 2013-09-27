@@ -24,9 +24,9 @@
   <name>Packaging Test</name>
 
   <modules>
-      <module>dist</module>
       <module>package-1</module>
       <module>package-2</module>
+      <module>dist</module>
   </modules>
 </project>
 
