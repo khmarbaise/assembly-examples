@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project
+  xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+
+  <parent>
+    <groupId>com.soebes.smpp</groupId>
+    <artifactId>smpp</artifactId>
+    <version>0.6.2</version>
+  </parent>
+
+  <groupId>org.test.parent</groupId>
+  <artifactId>root</artifactId>
+  <version>1.0.0-SNAPSHOT</version>
+
+  <packaging>pom</packaging>
+
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  </properties>
+
+  <name>Packaging Test</name>
+
+  <modules>
+    <module>dist</module>
+    <module>package-1</module>
+    <module>package-2</module>
+    <module>package-3</module>
+    <module>package-4</module>
+    <module>package-5</module>
+    <module>package-6</module>
+    <module>package-7</module>
+    <module>package-8</module>
+    <module>package-9</module>
+    <module>package-10</module>
+  </modules>
+</project>
