@@ -12,6 +12,7 @@
 
   <name>Packaging Test : Distribution</name>
   <artifactId>dist</artifactId>
+  <packaging>pom</packaging>
 
   <dependencies>
     <dependency>
