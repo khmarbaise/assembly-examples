@@ -13,7 +13,7 @@
           <outputDirectory>lib</outputDirectory>
           <unpack>false</unpack>
           <excludes>
-            <exclude>org.test.parent:*:*</exclude>
+            <exclude>${project.groupId}:*:*</exclude>
           </excludes>
       </dependencySet>
   </dependencySets>
