@@ -13,12 +13,12 @@
 
   <dependencies>
     <dependency>
-      <groupId>${project.groupId}</groupId>
+      <groupId>org.test.parent</groupId>
       <artifactId>package-one</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
-      <groupId>${project.groupId}</groupId>
+      <groupId>org.test.parent</groupId>
       <artifactId>package-two</artifactId>
       <version>${project.version}</version>
     </dependency>

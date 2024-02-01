@@ -10,7 +10,7 @@
     <version>1.0.0-SNAPSHOT</version>
   </parent>
 
-  <artifactId>package-nine</artifactId>
+  <artifactId>package-9</artifactId>
 
   <name>Packaging Test : Package-9</name>
 

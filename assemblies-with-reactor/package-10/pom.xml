@@ -10,7 +10,7 @@
     <version>1.0.0-SNAPSHOT</version>
   </parent>
 
-  <artifactId>package-ten</artifactId>
+  <artifactId>package-10</artifactId>
 
   <name>Packaging Test : Package-10</name>
 

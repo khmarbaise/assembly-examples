@@ -16,53 +16,53 @@
 
   <dependencies>
     <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>package-one</artifactId>
+      <groupId>org.test.parent</groupId>
+      <artifactId>package-1</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>package-two</artifactId>
+      <groupId>org.test.parent</groupId>
+      <artifactId>package-2</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>package-three</artifactId>
+      <groupId>org.test.parent</groupId>
+      <artifactId>package-3</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>package-four</artifactId>
+      <groupId>org.test.parent</groupId>
+      <artifactId>package-4</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>package-five</artifactId>
+      <groupId>org.test.parent</groupId>
+      <artifactId>package-5</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>package-six</artifactId>
+      <groupId>org.test.parent</groupId>
+      <artifactId>package-6</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>package-seven</artifactId>
+      <groupId>org.test.parent</groupId>
+      <artifactId>package-7</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>package-eight</artifactId>
+      <groupId>org.test.parent</groupId>
+      <artifactId>package-8</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>package-nine</artifactId>
+      <groupId>org.test.parent</groupId>
+      <artifactId>package-9</artifactId>
       <version>${project.version}</version>
     </dependency>
     <dependency>
-      <groupId>${project.groupId}</groupId>
-      <artifactId>package-ten</artifactId>
+      <groupId>org.test.parent</groupId>
+      <artifactId>package-10</artifactId>
       <version>${project.version}</version>
     </dependency>
   </dependencies>

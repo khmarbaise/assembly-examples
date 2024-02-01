@@ -5,9 +5,9 @@
   <parent>
     <groupId>com.soebes.smpp</groupId>
     <artifactId>smpp</artifactId>
-    <version>0.6.3</version>
+    <version>6.0.5</version>
+    <relativePath/>
   </parent>
-
 
   <groupId>org.test.parent</groupId>
   <artifactId>root</artifactId>
@@ -15,18 +15,12 @@
 
   <packaging>pom</packaging>
 
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
-
-
-
   <name>Packaging Test</name>
 
   <modules>
       <module>dist</module>
-      <module>package-1</module>
-      <module>package-2</module>
+      <module>package-two</module>
+      <module>package-one</module>
   </modules>
 </project>
 

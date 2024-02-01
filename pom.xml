@@ -9,18 +9,25 @@
     <relativePath/>
   </parent>
 
-  <groupId>org.test.parent</groupId>
+  <groupId>org.test.agregator</groupId>
   <artifactId>root</artifactId>
   <version>1.0.0-SNAPSHOT</version>
 
   <packaging>pom</packaging>
 
-  <name>Packaging Test</name>
+  <name>Assembly Aggregator</name>
 
   <modules>
-    <module>module-1</module>
-    <module>module-2</module>
-    <module>dist</module>
+    <module>assemblies-of-assemblies</module>
+    <module>assemblies-with-files</module>
+    <module>assemblies-with-files</module>
+    <module>assemblies-with-files-changed-order</module>
+    <module>assemblies-with-files-deps</module>
+    <module>assemblies-with-files-ten-mods</module>
+    <module>assemblies-with-jars</module>
+    <module>assemblies-with-modules-and-deps</module>
+    <module>assemblies-with-reactor</module>
+    <module>assemblies-with-zip</module>
   </modules>
 
 </project>
