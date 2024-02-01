@@ -21,8 +21,8 @@
   <name>Packaging Test</name>
 
   <modules>
-    <module>package-1</module>
-    <module>package-2</module>
+    <module>package-one</module>
+    <module>package-two</module>
     <module>dist</module>
   </modules>
 </project>

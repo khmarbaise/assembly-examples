@@ -13,14 +13,14 @@ xsi:schemaLocation="http://maven.apache.org/plugins/maven-assembly-plugin/assemb
 
   <fileSets>
     <fileSet>
-      <directory>${basedir}/../package-1/target/</directory>
+      <directory>${basedir}/../package-one/target/</directory>
       <outputDirectory>/</outputDirectory>
       <includes>
         <include>*.jar</include>
       </includes>
     </fileSet>
     <fileSet>
-      <directory>${basedir}/../package-2/target/</directory>
+      <directory>${basedir}/../package-two/target/</directory>
       <outputDirectory>/</outputDirectory>
       <includes>
         <include>*.jar</include>
